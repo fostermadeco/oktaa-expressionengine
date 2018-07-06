@@ -1,0 +1,17 @@
+{
+    "name": "fostermade/oktaee",
+    "require": {
+        "paragonie/random_compat": "2.0.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oktaee\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Foster Made",
+            "email": "appteam@fostermade.co"
+        }
+    ]
+}
